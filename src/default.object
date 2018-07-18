@@ -1,0 +1,101 @@
+[[
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 49},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 50},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 51},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 52},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 53},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 54},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 55},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 56}
+
+
+ ],
+ 
+
+[
+
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 57},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 58},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 59},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 60},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 61},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 62},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 63},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 64}
+],
+
+[
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 49},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 50},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 51},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 52},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 53},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 54},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 55},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 56}
+
+
+ ],
+ 
+
+[
+
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 57},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 58},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 59},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 60},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 61},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 62},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 63},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 64}
+],
+[
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 49},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 50},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 51},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 52},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 53},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 54},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 55},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 56}
+
+
+ ],
+ 
+
+[
+
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 57},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 58},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 59},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 60},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 61},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 62},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 63},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 64}
+],
+[
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 49},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 50},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 51},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 52},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 53},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 54},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 55},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 56}
+
+
+ ],
+ 
+
+[
+
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 57},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 58},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 59},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 60},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 61},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 62},
+ {state: "empty", tilesColor: "black", coinType: "", coinColor: "", id: 63},
+ {state: "empty", tilesColor: "white", coinType: "", coinColor: "", id: 64}
+]]
